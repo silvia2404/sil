@@ -1,670 +1,671 @@
+
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES ESPAÑA" , ES:-----|ES Deportes|--------------------
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" , tvg-id="ext" |  ES:-----|ES Deportes|--------------------
 
-#EXTINF:-1 tvg-chno="1", ES Teledeporte
+#EXTINF:-1 tvg-chno="1", tvg-id="ext" |  tvg-id="ext" | ES Teledeporte
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2535
 
-#EXTINF:-1 tvg-chno="2", Teledeporte HD
+#EXTINF:-1 tvg-chno="2", tvg-id="ext" |   tvg-id="ext" | Teledeporte HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29229
 
-#EXTINF:-1 tvg-chno="3", Teledeporte FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/27276.ts
+#EXTINF:-1 tvg-chno="3", tvg-id="ext" |  tvg-id="ext" |  Teledeporte FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29229
 
-#EXTINF:-1 tvg-chno="4", Mov.Formula 1 FHD
+#EXTINF:-1 tvg-chno="4", tvg-id="ext" |  tvg-id="ext" |  Mov.Formula 1 FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52416
 
-#EXTINF:-1 tvg-chno="5", Mov.Formula 1 HD
+#EXTINF:-1 tvg-chno="5", tvg-id="ext" |  tvg-id="ext" |  Mov.Formula 1 HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2578
 
-#EXTINF:-1 tvg-chno="6", Mov. Formula 1
+#EXTINF:-1 tvg-chno="6", tvg-id="ext" |  tvg-id="ext" |  Mov. Formula 1
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/47.ts
 
-#EXTINF:-1 tvg-chno="7", Mov. Formula 1 HD
+#EXTINF:-1 tvg-chno="7", tvg-id="ext" |  tvg-id="ext" |  Mov. Formula 1 HD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3067.ts
 
-#EXTINF:-1 tvg-chno="8", Mov. Formula 1 FHD
+#EXTINF:-1 tvg-chno="8", tvg-id="ext" |  tvg-id="ext" |  Mov. Formula 1 FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/118.ts
 
-#EXTINF:-1 tvg-chno="9", Dazn Formula 1 FHD (H265)
+#EXTINF:-1 tvg-chno="9", tvg-id="ext" |  tvg-id="ext" |  Dazn Formula 1 FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/116093.ts
 
-#EXTINF:-1 tvg-chno="10", DAZN FORMULA 1HD
+#EXTINF:-1 tvg-chno="10", tvg-id="ext" |  tvg-id="ext" |  DAZN FORMULA 1HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52365
 
-#EXTINF:-1 tvg-chno="11", Mov. GOLF FHD
+#EXTINF:-1 tvg-chno="11", tvg-id="ext" |  tvg-id="ext" |  Mov. GOLF FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52417
 
-#EXTINF:-1 tvg-chno="12", Dazn 1 SD
+#EXTINF:-1 tvg-chno="12", tvg-id="ext" |  tvg-id="ext" |  Dazn 1 SD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/107139.ts
 
-#EXTINF:-1 tvg-chno="13", Dazn 1 HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/107140.ts
+#EXTINF:-1 tvg-chno="13", tvg-id="ext" |  tvg-id="ext" | MOV.Dazn 1 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/75436
 
-#EXTINF:-1 tvg-chno="14", Dazn 1 FHD
+#EXTINF:-1 tvg-chno="14", tvg-id="ext" |  tvg-id="ext" |  Dazn 1 FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/107099.ts
 
-#EXTINF:-1 tvg-chno="15", Dazn 2 SD
+#EXTINF:-1 tvg-chno="15", tvg-id="ext" |  tvg-id="ext" |  Dazn 2 SD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/107141.ts
 
-#EXTINF:-1 tvg-chno="16", Dazn 2 HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115669.ts
+#EXTINF:-1 tvg-chno="16", tvg-id="ext" |  tvg-id="ext" |  MOV.Dazn 2 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/75437
 
-#EXTINF:-1 tvg-chno="17", Dazn 2 FHD
+#EXTINF:-1 tvg-chno="17", tvg-id="ext" |  tvg-id="ext" |  Dazn 2 FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/107100.ts
 
-#EXTINF:-1 tvg-chno="18", Dazn 3 HD
+#EXTINF:-1 tvg-chno="18", tvg-id="ext" |  tvg-id="ext" |  Dazn 3 HD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115678.ts
 
-#EXTINF:-1 tvg-chno="19", Dazn 3 FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115681.ts
+#EXTINF:-1 tvg-chno="19", tvg-id="ext" |  tvg-id="ext" |  MOV.Dazn 3 FHD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/75438
 
-#EXTINF:-1 tvg-chno="20", Dazn 4 HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115686.ts
+#EXTINF:-1 tvg-chno="20", tvg-id="ext" |  tvg-id="ext" |  MOV.Dazn 4 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/75439
 
-#EXTINF:-1 tvg-chno="21", Dazn 4 FHD
+#EXTINF:-1 tvg-chno="21", tvg-id="ext" |  tvg-id="ext" |  Dazn 4 FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115688.ts
 
-#EXTINF:-1 tvg-chno="22", M.Deportes
+#EXTINF:-1 tvg-chno="22", tvg-id="ext" |  tvg-id="ext" |  M.Deportes
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2587
 
-#EXTINF:-1 tvg-chno="23", GOL TV
+#EXTINF:-1 tvg-chno="23", tvg-id="ext" |  tvg-id="ext" |  GOL TV
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2559
 
-#EXTINF:-1 tvg-chno="24", Mov. Liga Campeones1
+#EXTINF:-1 tvg-chno="24", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones1
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52425
 
-#EXTINF:-1 tvg-chno="25", Mov. Liga Campeones2
+#EXTINF:-1 tvg-chno="25", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones2
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52424
 
-#EXTINF:-1 tvg-chno="26", Mov. Liga Campeones3
+#EXTINF:-1 tvg-chno="26", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones3
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52423
 
-#EXTINF:-1 tvg-chno="27", Mov. Liga Campeones4
+#EXTINF:-1 tvg-chno="27", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones4
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52422
 
-#EXTINF:-1 tvg-chno="28", Mov. Liga Campeones5
+#EXTINF:-1 tvg-chno="28", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones5
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52421
 
-#EXTINF:-1 tvg-chno="29", Mov. Liga Campeones6
+#EXTINF:-1 tvg-chno="29", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones6
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52420
 
-#EXTINF:-1 tvg-chno="30", Mov. Liga Campeones7
+#EXTINF:-1 tvg-chno="30", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones7
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52419
 
-V#EXTINF:-1 tvg-chno="31", Mov. Liga Campeones8
+V#EXTINF:-1 tvg-chno="31", tvg-id="ext" |  tvg-id="ext" |  Mov. Liga Campeones8
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52418
 
-#EXTINF:-1 tvg-chno="32", M. Liga CampeonesHD
+#EXTINF:-1 tvg-chno="32", tvg-id="ext" |  tvg-id="ext" |  M. Liga CampeonesHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2594
 
-#EXTINF:-1 tvg-chno="33", M.Liga Campeones
+#EXTINF:-1 tvg-chno="33", tvg-id="ext" |  tvg-id="ext" |  M.Liga Campeones
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29307
 
-#EXTINF:-1 tvg-chno="34", Mov.Liga CampeonesFHD
+#EXTINF:-1 tvg-chno="34", tvg-id="ext" |  tvg-id="ext" |  Mov.Liga CampeonesFHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29219
 
-#EXTINF:-1 tvg-chno="35", M. LIGA CAMPEONES6
+#EXTINF:-1 tvg-chno="35", tvg-id="ext" |  tvg-id="ext" |  M. LIGA CAMPEONES6
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29218
 
-#EXTINF:-1 tvg-chno="36", EUROSPORT 1 HD
+#EXTINF:-1 tvg-chno="36", tvg-id="ext" |  tvg-id="ext" |  EUROSPORT 1 HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2564
 
-#EXTINF:-1 tvg-chno="37", EUROSPORT 2 HD
+#EXTINF:-1 tvg-chno="37", tvg-id="ext" |  tvg-id="ext" | EUROSPORT 2 HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2563
 
-#EXTINF:-1 tvg-chno="38", EUROSPORT 1 FHD
+#EXTINF:-1 tvg-chno="38", tvg-id="ext" |  tvg-id="ext" |  EUROSPORT 1 FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52333
 
-#EXTINF:-1 tvg-chno="39", EUROSPORT 2SD
+#EXTINF:-1 tvg-chno="39", tvg-id="ext" |  tvg-id="ext" |  EUROSPORT 2SD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52332
 
-#EXTINF:-1 tvg-chno="40", EUROSPORT
+#EXTINF:-1 tvg-chno="40", tvg-id="ext" |  tvg-id="ext" | EUROSPORT
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52357
 
-#EXTINF:-1 tvg-chno="41", La Liga BAR HD
+#EXTINF:-1 tvg-chno="41", tvg-id="ext" |  tvg-id="ext" |  La Liga BAR HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29303
 
-#EXTINF:-1 tvg-chno="42", M. DEPORTES 1
+#EXTINF:-1 tvg-chno="42", tvg-id="ext" |  tvg-id="ext" |  M. DEPORTES 1
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29259
 
-#EXTINF:-1 tvg-chno="43", M. DEPORTES 3
+#EXTINF:-1 tvg-chno="43", tvg-id="ext" |  tvg-id="ext" |  M. DEPORTES 3
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29257
 
-#EXTINF:-1 tvg-chno="44", M Deportes 2
+#EXTINF:-1 tvg-chno="44", tvg-id="ext" |  tvg-id="ext" |  M Deportes 2
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2590
 
-#EXTINF:-1 tvg-chno="45", M Deportes 1
+#EXTINF:-1 tvg-chno="45", tvg-id="ext" |  tvg-id="ext" |  M Deportes 1
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2589
 
-#EXTINF:-1 tvg-chno="46", #VolverEsGanar
+#EXTINF:-1 tvg-chno="46", tvg-id="ext" |  tvg-id="ext" |  #VolverEsGanar
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29258
 
-#EXTINF:-1 tvg-chno="47", Dazn ES ( Match time only)
+#EXTINF:-1 tvg-chno="47", tvg-id="ext" |  tvg-id="ext" |  Dazn ES ( Match time only)
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29220
 
-#EXTINF:-1 tvg-chno="48", LaLiga TV Bar
+#EXTINF:-1 tvg-chno="48", tvg-id="ext" |  tvg-id="ext" |  LaLiga TV Bar
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2553
 
-#EXTINF:-1 tvg-chno="49", M MotoGP
+#EXTINF:-1 tvg-chno="49", tvg-id="ext" |  tvg-id="ext" |  M MotoGP
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2577
 
-#EXTINF:-1 tvg-chno="50", DAZN MOTO GP
+#EXTINF:-1 tvg-chno="50", tvg-id="ext" |  tvg-id="ext" |  DAZN MOTO GP
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29226
 
-#EXTINF:-1 tvg-chno="51", Vamos HD
+#EXTINF:-1 tvg-chno="51", tvg-id="ext" |  tvg-id="ext" |  Vamos HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29313
 
-#EXTINF:-1 tvg-chno="52", Vamos FHD
+#EXTINF:-1 tvg-chno="52", tvg-id="ext" |  tvg-id="ext" |  Vamos FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29260
 
-#EXTINF:-1 tvg-chno="53", Canal DEPORTES HD
+#EXTINF:-1 tvg-chno="53", tvg-id="ext" |  tvg-id="ext" |  Canal DEPORTES HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29306
 
-#EXTINF:-1 tvg-chno="54", Canal DEPORTES 2 HD
+#EXTINF:-1 tvg-chno="54", tvg-id="ext" |  tvg-id="ext" |  Canal DEPORTES 2 HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29305
 
-#EXTINF:-1 tvg-chno="55", MOV. LaLiga HD
+#EXTINF:-1 tvg-chno="55", tvg-id="ext" |  tvg-id="ext" |  MOV. LaLiga HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29271
 
-#EXTINF:-1 tvg-chno="56", MOV. LaLiga FHD
+#EXTINF:-1 tvg-chno="56", tvg-id="ext" |  tvg-id="ext" |  MOV. LaLiga FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29270 
 
-#EXTINF:-1 tvg-chno="57", M. LaLiga FHD
+#EXTINF:-1 tvg-chno="57", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29308
 
-#EXTINF:-1 tvg-chno="58", M. LaLiga HD
+#EXTINF:-1 tvg-chno="58", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29300
 
-#EXTINF:-1 tvg-chno="59", M. LaLiga 1
+#EXTINF:-1 tvg-chno="59", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga 1
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29256
 
-#EXTINF:-1 tvg-chno="60", M. LaLiga 2
+#EXTINF:-1 tvg-chno="60", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga 2
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29255
 
-#EXTINF:-1 tvg-chno="61", M. LaLiga 3
+#EXTINF:-1 tvg-chno="61", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga 3
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29254
 
-#EXTINF:-1 tvg-chno="62", M. LaLiga 4
+#EXTINF:-1 tvg-chno="62", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga 4
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29297
 
-#EXTINF:-1 tvg-chno="63", M. LaLiga 5
+#EXTINF:-1 tvg-chno="63", tvg-id="ext" |  tvg-id="ext" |  M. LaLiga 5
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29296
 
-#EXTINF:-1 tvg-chno="64", M. Laliga 6
+#EXTINF:-1 tvg-chno="64", tvg-id="ext" |  tvg-id="ext" |  M. Laliga 6
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29269
 
-#EXTINF:-1 tvg-chno="65", M. Laliga 7
+#EXTINF:-1 tvg-chno="65", tvg-id="ext" |  M. Laliga 7
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29267
 
-#EXTINF:-1 tvg-chno="66", M. Laliga 8
+#EXTINF:-1 tvg-chno="66", tvg-id="ext" |  M. Laliga 8
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29261
 
-#EXTINF:-1 tvg-chno="67", LaLiga 123 HD
+#EXTINF:-1 tvg-chno="67", tvg-id="ext" |  LaLiga 123 HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29236
 
-#EXTINF:-1 tvg-chno="68", SKY NET SPORTS 2
+#EXTINF:-1 tvg-chno="68", tvg-id="ext" |  SKY NET SPORTS 2
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29228
 
-#EXTINF:-1 tvg-chno="69", SKYNET SPORTS 1
+#EXTINF:-1 tvg-chno="69", tvg-id="ext" |  SKYNET SPORTS 1
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29227
 
-#EXTINF:-1 tvg-chno="70", :Mov. Futbol FHD
+#EXTINF:-1 tvg-chno="70", tvg-id="ext" |  :Mov. Futbol FHD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52414
 
-#EXTINF:-1 tvg-chno="71", ESPN
+#EXTINF:-1 tvg-chno="71", tvg-id="ext" |  ESPN
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52400
 
-#EXTINF:-1 tvg-chno="72", Mov.Partidazo HD (event only)
+#EXTINF:-1 tvg-chno="72", tvg-id="ext" |  Mov.Partidazo HD (event only)
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52366
 
-#EXTINF:-1 tvg-chno="73", Canal Deportes
+#EXTINF:-1 tvg-chno="73", tvg-id="ext" |  Canal Deportes
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52356
 
-#EXTINF:-1 tvg-chno="74", BeinSport HD
+#EXTINF:-1 tvg-chno="74", tvg-id="ext" |  BeinSport HD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52350
 
-#EXTINF:-1 tvg-chno="75", MOV. LaLiga SD
+#EXTINF:-1 tvg-chno="75", tvg-id="ext" |  MOV. LaLiga SD
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52349
 
-#EXTINF:-1 tvg-chno="76", CANAL Formula One
+#EXTINF:-1 tvg-chno="76", tvg-id="ext" |  CANAL Formula One
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52345
 
-#EXTINF:-1 tvg-chno="77", M.VAMOS 2HD
+#EXTINF:-1 tvg-chno="77", tvg-id="ext" |  M.VAMOS 2HD
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6894
 
-#EXTINF:-1 group-title="DEPORTES MEXICO" ,
+#EXTINF:-1 group-title="DEPORTES MEXICO" , tvg-id="ext" | 
 
-#EXTINF:-1 tvg-chno="78", ESPN 1 HD (Mx)
+#EXTINF:-1 tvg-chno="78", tvg-id="ext" |  ESPN 1 HD (Mx)
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1266
 
-#EXTINF:-1 tvg-chno="79", ESPN 2 HD (Mx)
+#EXTINF:-1 tvg-chno="79", tvg-id="ext" |  ESPN 2 HD (Mx)
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1267
 
-#EXTINF:-1 tvg-chno="80", ESPN 2 Mexico
+#EXTINF:-1 tvg-chno="80", tvg-id="ext" |  ESPN 2 Mexico
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1868
 
-#EXTINF:-1 tvg-chno="81", ESPN 3 HD (Mx)
+#EXTINF:-1 tvg-chno="81", tvg-id="ext" |  ESPN 3 HD (Mx)
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1268
 
-#EXTINF:-1 tvg-chno="82", ESPN 3 Mexico
+#EXTINF:-1 tvg-chno="82", tvg-id="ext" |  ESPN 3 Mexico
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1870
 
-#EXTINF:-1 tvg-chno="83", ESPN Depor. HD
+#EXTINF:-1 tvg-chno="83", tvg-id="ext" |  ESPN Depor. HD
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1269
 
-#EXTINF:-1 tvg-chno="84", ESPN Plus HD
+#EXTINF:-1 tvg-chno="84", tvg-id="ext" |  ESPN Plus HD
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1270
 
-#EXTINF:-1 tvg-chno="85", ESPN PLUS Mexico
+#EXTINF:-1 tvg-chno="85", tvg-id="ext" |  ESPN PLUS Mexico
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1873
 
-#EXTINF:-1 tvg-chno="86", ESPN U HD
+#EXTINF:-1 tvg-chno="86", tvg-id="ext" |  ESPN U HD
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1271
 
-#EXTINF:-1 tvg-chno="87", ESPN U Mexico
+#EXTINF:-1 tvg-chno="87", tvg-id="ext" |  ESPN U Mexico
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1874
 
-#EXTINF:-1 tvg-chno="88", ESPN Mexico VIVO
+#EXTINF:-1 tvg-chno="88", tvg-id="ext" |  ESPN Mexico VIVO
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1866
 
-#EXTINF:-1 tvg-chno="89", ESPN Network MX
+#EXTINF:-1 tvg-chno="89", tvg-id="ext" |  ESPN Network MX
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1872
 
-#EXTINF:-1 tvg-chno="90", Fox Sports MX
+#EXTINF:-1 tvg-chno="90", tvg-id="ext" |  Fox Sports MX
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1875
 
-#EXTINF:-1 tvg-chno="91", Fox Sports 1HD MX
+#EXTINF:-1 tvg-chno="91", tvg-id="ext" |  Fox Sports 1HD MX
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/51372
 
-#EXTINF:-1 tvg-chno="92", Fox Sports 2 MX
+#EXTINF:-1 tvg-chno="92", tvg-id="ext" |  Fox Sports 2 MX
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1877
 
-#EXTINF:-1 tvg-chno="93", Fox Sports 2 HD MX
+#EXTINF:-1 tvg-chno="93", tvg-id="ext" |  Fox Sports 2 HD MX
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/51371 
 
-#EXTINF:-1 tvg-chno="94", Fox Sports 3 HD MX
+#EXTINF:-1 tvg-chno="94", tvg-id="ext" |  Fox Sports 3 HD MX
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/51370
 
-#EXTINF:-1 tvg-chno="95", Fox Sports 3 MX
+#EXTINF:-1 tvg-chno="95", tvg-id="ext" |  Fox Sports 3 MX
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1879
 
-#EXTINF:-1 group-title="DEPORTES CHILE" ,
+#EXTINF:-1 group-title="DEPORTES CHILE" , tvg-id="ext" | 
 
-#EXTINF:-1 tvg-chno="96", Fox Sports HD CHI
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/32976.ts
+#EXTINF:-1 tvg-chno="96", tvg-id="ext" |  Fox Sports HD CHI
+http://51.222.82.89:2180/1bfabecd-c54e-4c3f-8c8a-29606ee912cd/MxRi8W6PLh/329585
 
-#EXTINF:-1 tvg-chno="97", Fox Sports 1 CHI
-http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/2246
+#EXTINF:-1 tvg-chno="97", tvg-id="ext" |  Fox Sports 1 CHI
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/23835
 
-#EXTINF:-1 tvg-chno="98", Fox Sports 1 HD CHI
+#EXTINF:-1 tvg-chno="98", tvg-id="ext" |  Fox Sports 1 HD CHI
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/32977.ts
 
-#EXTINF:-1 tvg-chno="99", Fox Sports 2 HD CHI
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/32971.ts
+#EXTINF:-1 tvg-chno="99", tvg-id="ext" |  Fox Sports 3 HD CHI
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1880
 
-#EXTINF:-1 tvg-chno="100", Fox Sports 2 FHD CHI
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/26792.ts
+#EXTINF:-1 tvg-chno="100", tvg-id="ext" |  Fox Sports 2 FHD CHI
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1878
 
-#EXTINF:-1 tvg-chno="101", TNT Sports HD CHI
-http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/13434
+#EXTINF:-1 tvg-chno="101", tvg-id="ext" |  TNT Sports CHI
+http://51.222.82.89:2180/1bfabecd-c54e-4c3f-8c8a-29606ee912cd/MxRi8W6PLh/330944
 
-#EXTINF:-1 tvg-chno="102", TNT Sports 2 CHI
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/101882.ts
+#EXTINF:-1 tvg-chno="102", tvg-id="ext" |  TNT Sports HD CHI
+http://51.222.82.89:2180/1bfabecd-c54e-4c3f-8c8a-29606ee912cd/MxRi8W6PLh/329593
 
-#EXTINF:-1 tvg-chno="102", TNT Sports 2 HD CHI
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/316.ts
+#EXTINF:-1 tvg-chno="102", tvg-id="ext" |  TNT Sports PREMIUM CHI
+http://51.222.82.89:2180/1bfabecd-c54e-4c3f-8c8a-29606ee912cd/MxRi8W6PLh/329644
 
-#EXTINF:-1 tvg-chno="104", TNT Sports 3 (MOVIL) CHI
+#EXTINF:-1 tvg-chno="104", tvg-id="ext" |  TNT Sports 3 (MOVIL) CHI
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/65068.ts
 
-#EXTINF:-1 tvg-chno="105", TNT Sports 3 CHI
+#EXTINF:-1 tvg-chno="105", tvg-id="ext" |  TNT Sports 3 CHI
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/24900.ts
 
-#EXTINF:-1 tvg-chno="106", TNT Sports 3 HD CHI
+#EXTINF:-1 tvg-chno="106", tvg-id="ext" |  TNT Sports 3 HD CHI
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/110197.ts
 
-#EXTINF:-1 tvg-chno="107", TNT Sports 3 FHD (h265) CHI
+#EXTINF:-1 tvg-chno="107", tvg-id="ext" |  TNT Sports 3 FHD (h265) CHI
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/309.ts
 
-#EXTINF:-1 tvg-chno="108", CDO Basico CHI
+#EXTINF:-1 tvg-chno="108", tvg-id="ext" |  CDO Basico CHI
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/13435
 
-#EXTINF:-1 tvg-chno="109", CDO Premium CHI
+#EXTINF:-1 tvg-chno="109", tvg-id="ext" |  CDO Premium CHI
 http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/13436
 
-#EXTINF:-1 tvg-chno="110", CDO Premium HD CHI
-http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/13437
+#EXTINF:-1 tvg-chno="110", tvg-id="ext" |  SKY Sports 16 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1300
 
-#EXTINF:-1 tvg-chno="111", Directv Sports HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/101873.ts
+#EXTINF:-1 tvg-chno="111", tvg-id="ext" |  Directv Sports HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1864
 
-#EXTINF:-1 tvg-chno="112", Directv Chile
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/31164.ts
+#EXTINF:-1 tvg-chno="112", tvg-id="ext" |  Directv Sports 2
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1865
 
-#EXTINF:-1 tvg-chno="113", FOX SPORTS HD ARGENT.
+#EXTINF:-1 tvg-chno="113", tvg-id="ext" |  FOX SPORTS HD ARGENT.
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/49703
 
-#EXTINF:-1 tvg-chno="114", Fox Sports Premium ARGENT.
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/32331.ts
+#EXTINF:-1 tvg-chno="114", tvg-id="ext" |  SKY Sports 21 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/1299
 
-#EXTINF:-1 tvg-chno="115", FOX SPORTS Premium HD ARGENT.
+#EXTINF:-1 tvg-chno="115", tvg-id="ext" |  FOX SPORTS Premium HD ARGENT.
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/49702
 
-#EXTINF:-1 tvg-chno="116", UFC Network
+#EXTINF:-1 tvg-chno="116", tvg-id="ext" |  UFC Network
 http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/58052
 
-#EXTINF:-1 group-title="ESPAÑA TDT", ES:-----|ESPAÑA TDT|--------------------
+#EXTINF:-1 group-title="ESPAÑA TDT", tvg-id="ext" |  ES:-----|ESPAÑA TDT|--------------------
 
-#EXTINF:-1 tvg-chno="117", TVE Internacional
+#EXTINF:-1 tvg-chno="117", tvg-id="ext" |  TVE Internacional
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/27229.ts
 
-#EXTINF:-1 tvg-chno="118", TVE Internacional (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115701.ts
+#EXTINF:-1 tvg-chno="118", tvg-id="ext" |  TVE Internacional HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6797
 
-#EXTINF:-1 tvg-chno="119", La 1
+#EXTINF:-1 tvg-chno="119", tvg-id="ext" |  La 1
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/102.ts
 
-#EXTINF:-1 tvg-chno="120", La 1 HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3071.ts
+#EXTINF:-1 tvg-chno="120", tvg-id="ext" |  La 1 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6747
 
-#EXTINF:-1 tvg-chno="121", La 1 FHD
+#EXTINF:-1 tvg-chno="121", tvg-id="ext" |  La 1 FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/103.ts
 
-#EXTINF:-1 tvg-chno="122", La 1 FHD (H265)
+#EXTINF:-1 tvg-chno="122", tvg-id="ext" |  La 1 FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115667.ts
 
-#EXTINF:-1 tvg-chno="123", La 2
+#EXTINF:-1 tvg-chno="123", tvg-id="ext" |  La 2
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/106.ts
 
-#EXTINF:-1 tvg-chno="124", La 2 (H265)
+#EXTINF:-1 tvg-chno="124", tvg-id="ext" |  La 2 (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115666.ts
 
-#EXTINF:-1 tvg-chno="125", La 2 FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/107.ts
+#EXTINF:-1 tvg-chno="125", tvg-id="ext" |  La 2 FHD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6748
 
-#EXTINF:-1 tvg-chno="126", Antena Series HD
+#EXTINF:-1 tvg-chno="126", tvg-id="ext" |  Antena Series HD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/112992.ts
 
-#EXTINF:-1 tvg-chno="127", Antena 3
+#EXTINF:-1 tvg-chno="127", tvg-id="ext" |  Antena 3
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/36.ts
 
-#EXTINF:-1 tvg-chno="128", Antena 3 HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3072.ts
+#EXTINF:-1 tvg-chno="128", tvg-id="ext" |  Antena 3 HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6755
 
-#EXTINF:-1 tvg-chno="129", Antena 3 FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/35.ts
+#EXTINF:-1 tvg-chno="129", tvg-id="ext" |  Antena 3 SD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29215
 
-#EXTINF:-1 tvg-chno="130", Antena 3 FHD (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115665.ts
+#EXTINF:-1 tvg-chno="130", tvg-id="ext" |  Antena 3 FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52415
 
-#EXTINF:-1 tvg-chno="131", Antena 3 Internacional
+#EXTINF:-1 tvg-chno="131", tvg-id="ext" |  Antena 3 Internacional
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/24433.ts
 
-#EXTINF:-1 tvg-chno="132", Antena 3 Internacional FHD
+#EXTINF:-1 tvg-chno="132", tvg-id="ext" |  Antena 3 Internacional FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/24434.ts
 
-#EXTINF:-1 tvg-chno="133", Cuatro
+#EXTINF:-1 tvg-chno="133", tvg-id="ext" |  Cuatro
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/2.ts
 
-#EXTINF:-1 tvg-chno="134", Cuatro HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3073.ts
+#EXTINF:-1 tvg-chno="134", tvg-id="ext" |  Cuatro HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6749
 
-#EXTINF:-1 tvg-chno="135", Cuatro FHD
+#EXTINF:-1 tvg-chno="135", tvg-id="ext" |  Cuatro FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/144.ts
 
-#EXTINF:-1 tvg-chno="136", Cuatro FHD (H265)
+#EXTINF:-1 tvg-chno="136", tvg-id="ext" |  Cuatro FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115664.ts
 
-#EXTINF:-1 tvg-chno="137", Telecinco
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/75.ts
+#EXTINF:-1 tvg-chno="137", tvg-id="ext" |  Telecinco
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29230
 
-#EXTINF:-1 tvg-chno="138", Telecinco HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3074.ts
+#EXTINF:-1 tvg-chno="138", tvg-id="ext" |  Telecinco HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6750
 
-#EXTINF:-1 tvg-chno="139", Telecinco FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/77.ts
+#EXTINF:-1 tvg-chno="139", tvg-id="ext" |  Telecinco FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29232
 
-#EXTINF:-1 tvg-chno="140", Telecinco FHD (H265)
+#EXTINF:-1 tvg-chno="140", tvg-id="ext" |  Telecinco FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115663.ts
 
-#EXTINF:-1 tvg-chno="141", La Sexta
+#EXTINF:-1 tvg-chno="141", tvg-id="ext" |  La Sexta
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/104.ts
 
-#EXTINF:-1 tvg-chno="142", La Sexta HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3075.ts
+#EXTINF:-1 tvg-chno="142", tvg-id="ext" |  La Sexta HD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2552
 
-#EXTINF:-1 tvg-chno="143", La Sexta FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/105.ts
+#EXTINF:-1 tvg-chno="143", tvg-id="ext" |  La Sexta FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52410
 
-#EXTINF:-1 tvg-chno="144", La Sexta FHD (H265)
+#EXTINF:-1 tvg-chno="144", tvg-id="ext" |  La Sexta FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115662.ts
 
-#EXTINF:-1 tvg-chno="145", Star TVE
+#EXTINF:-1 tvg-chno="145", tvg-id="ext" |  Star TVE
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/25145.ts
 
-#EXTINF:-1 tvg-chno="146", Star TVE FHD
+#EXTINF:-1 tvg-chno="146", tvg-id="ext" |  Star TVE FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/25146.ts
 
-#EXTINF:-1 tvg-chno="147", 24h
+#EXTINF:-1 tvg-chno="147", tvg-id="ext" |  24h
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/92.ts
 
-#EXTINF:-1 tvg-chno="148", 24h (H265)
+#EXTINF:-1 tvg-chno="148", tvg-id="ext" |  24h (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115702.ts
 
-#EXTINF:-1 tvg-chno="149", Hispan TV
+#EXTINF:-1 tvg-chno="149", tvg-id="ext" |  Hispan TV
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/9978.ts
 
-#EXTINF:-1 tvg-chno="150", CGTN En Español
+#EXTINF:-1 tvg-chno="150", tvg-id="ext" |  CGTN En Español
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/9981.ts
 
-#EXTINF:-1 tvg-chno="151", MEGA
+#EXTINF:-1 tvg-chno="151", tvg-id="ext" |  MEGA
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/132.ts
 
-#EXTINF:-1 tvg-chno="152", MEGA HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/23861.ts
+#EXTINF:-1 tvg-chno="152", tvg-id="ext" |  MEGA HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6788
 
-#EXTINF:-1 tvg-chno="153", MEGA FHD
+#EXTINF:-1 tvg-chno="153", tvg-id="ext" |  MEGA FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/11148.ts
 
-#EXTINF:-1 tvg-chno="154", BeMad
+#EXTINF:-1 tvg-chno="154", tvg-id="ext" |  BeMad
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/34566.ts
 
-#EXTINF:-1 tvg-chno="155", BeMad HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3047.ts
+#EXTINF:-1 tvg-chno="155", tvg-id="ext" |  BeMad HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6756
 
-#EXTINF:-1 tvg-chno="156", BeMad FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/15239.ts
+#EXTINF:-1 tvg-chno="156", tvg-id="ext" |  BeMad FHD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6757
 
-#EXTINF:-1 tvg-chno="157", BeMad (H265)
+#EXTINF:-1 tvg-chno="157", tvg-id="ext" |  BeMad (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115705.ts
 
-#EXTINF:-1 tvg-chno="158", Dkiss
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/159.ts
+#EXTINF:-1 tvg-chno="158", tvg-id="ext" |  Dkiss
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6785
 
-#EXTINF:-1 tvg-chno="159", DMAX
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/158.ts
+#EXTINF:-1 tvg-chno="159", tvg-id="ext" |  DMAX HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/35425
 
-#EXTINF:-1 tvg-chno="160", Divinity
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/157.ts
+#EXTINF:-1 tvg-chno="160", tvg-id="ext" |  Divinity
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/14466
 
-#EXTINF:-1 tvg-chno="161", Divinity (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115704.ts
+#EXTINF:-1 tvg-chno="161", tvg-id="ext" |  Divinity (H265)
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/14467
 
-#EXTINF:-1 tvg-chno="162", Energy
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/160.ts
+#EXTINF:-1 tvg-chno="162", tvg-id="ext" |  Energy
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6760
 
-#EXTINF:-1 tvg-chno="163", Energy (H265)
+#EXTINF:-1 tvg-chno="163", tvg-id="ext" |  Energy (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115710.ts
 
-#EXTINF:-1 tvg-chno="164", Blaze
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/39.ts
+#EXTINF:-1 tvg-chno="164", tvg-id="ext" |  Blaze
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6770
 
-#EXTINF:-1 tvg-chno="165", Blaze (H265)
+#EXTINF:-1 tvg-chno="165", tvg-id="ext" |  Blaze (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115708.ts
 
-#EXTINF:-1 tvg-chno="166", Nova
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/60.ts
+#EXTINF:-1 tvg-chno="166", tvg-id="ext" |  Nova
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6763
 
-#EXTINF:-1 tvg-chno="167", Nova (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115712.ts
+#EXTINF:-1 tvg-chno="167", tvg-id="ext" |  Nova (H265)
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6764
 
-#EXTINF:-1 tvg-chno="168", Nova FHD
+#EXTINF:-1 tvg-chno="168", tvg-id="ext" |  Nova FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/11149.ts
 
-#EXTINF:-1 tvg-chno="169", Odisea
+#EXTINF:-1 tvg-chno="169", tvg-id="ext" |  Odisea
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/18.ts
 
-#EXTINF:-1 tvg-chno="170", Odisea (H265)
+#EXTINF:-1 tvg-chno="170", tvg-id="ext" |  Odisea (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115709.ts
 
-#EXTINF:-1 tvg-chno="171", Odisea HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/27251.ts
+#EXTINF:-1 tvg-chno="171", tvg-id="ext" |  Odisea HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6794
 
-#EXTINF:-1 tvg-chno="172", Odisea FHD
+#EXTINF:-1 tvg-chno="172", tvg-id="ext" |  Odisea FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/15240.ts
 
-#EXTINF:-1 tvg-chno="173", FDF
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/165.ts
+#EXTINF:-1 tvg-chno="173", tvg-id="ext" |  FDF
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6761
 
-#EXTINF:-1 tvg-chno="174", FDF (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115711.ts
+#EXTINF:-1 tvg-chno="174", tvg-id="ext" |  FDF (H265)
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/14468
 
-#EXTINF:-1 tvg-chno="175", Neox
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/56.ts
+#EXTINF:-1 tvg-chno="175", tvg-id="ext" |  Neox
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6762
 
-#EXTINF:-1 tvg-chno="176", Neox FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/11150.ts
+#EXTINF:-1 tvg-chno="176", tvg-id="ext" |  Neox FHD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/14483
 
-#EXTINF:-1 tvg-chno="177", Neox (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115703.ts
+#EXTINF:-1 tvg-chno="177", tvg-id="ext" |  Neox (H265)
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2546
 
-#EXTINF:-1 tvg-chno="178", Ten
+#EXTINF:-1 tvg-chno="178", tvg-id="ext" |  Ten
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/80.ts
 
-#EXTINF:-1 tvg-chno="179", rimen Investigacion
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3.ts
+#EXTINF:-1 tvg-chno="179", tvg-id="ext" |  Crimen Investigacion HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6782
 
-#EXTINF:-1 tvg-chno="180", Crimen Investigacion (H265)
+#EXTINF:-1 tvg-chno="180", tvg-id="ext" |  Crimen Investigacion (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115832.ts
 
-#EXTINF:-1 tvg-chno="181", M. Crimen
+#EXTINF:-1 tvg-chno="181", tvg-id="ext" |  M. Crimen
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/114521.ts
 
-#EXTINF:-1 tvg-chno="182", M. Crimen (H265)
+#EXTINF:-1 tvg-chno="182", tvg-id="ext" |  M. Crimen (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115717.ts
 
-#EXTINF:-1 tvg-chno="183", Discovery Channel
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/152.ts
+#EXTINF:-1 tvg-chno="183", tvg-id="ext" |  Discovery Channel
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6783
 
-#EXTINF:-1 tvg-chno="184", Discovery Channel (H265)
+#EXTINF:-1 tvg-chno="184", tvg-id="ext" |  Discovery Channel (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115833.ts
 
-#EXTINF:-1 tvg-chno="185", Discovery Channel FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/27277.ts
+#EXTINF:-1 tvg-chno="185", tvg-id="ext" |  Discovery Channel FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2570
 
-#EXTINF:-1 tvg-chno="186", Historia
+#EXTINF:-1 tvg-chno="186", tvg-id="ext" |  Historia
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/98.ts
 
-#EXTINF:-1 tvg-chno="187", Historia FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/11154.ts
+#EXTINF:-1 tvg-chno="187", tvg-id="ext" |  Historia FHD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6786
 
-#EXTINF:-1 tvg-chno="188", Historia (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/116090.ts
+#EXTINF:-1 tvg-chno="188", tvg-id="ext" |  Historia HD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2558
 
-#EXTINF:-1 tvg-chno="189", Nat Geo Wild
+#EXTINF:-1 tvg-chno="189", tvg-id="ext" |  Nat Geo Wild
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/51.ts
 
-#EXTINF:-1 tvg-chno="190", Nat Geo Wild HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3042.ts
+#EXTINF:-1 tvg-chno="190", tvg-id="ext" |  Nat Geo Wild HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6791
 
-#EXTINF:-1 tvg-chno="191", Nat Geo Wild FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/52.ts
+#EXTINF:-1 tvg-chno="191", tvg-id="ext" |  Nat Geo Wild FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2548
 
-#EXTINF:-1 tvg-chno="192", Nat Geo Wild FHD (H265)
+#EXTINF:-1 tvg-chno="192", tvg-id="ext" |  Nat Geo Wild FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115714.ts
 
-#EXTINF:-1 tvg-chno="193", National Geographic
+#EXTINF:-1 tvg-chno="193", tvg-id="ext" |  National Geographic
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/54.ts
 
-#EXTINF:-1 tvg-chno="194", National Geographic HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3043.ts
+#EXTINF:-1 tvg-chno="194", tvg-id="ext" |  National Geographic HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6790
 
-#EXTINF:-1 tvg-chno="195", National Geographic FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/55.ts
+#EXTINF:-1 tvg-chno="195", tvg-id="ext" |  National Geographic FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2548
 
-#EXTINF:-1 tvg-chno="196", National Geographic FHD (H265)
+#EXTINF:-1 tvg-chno="196", tvg-id="ext" |  National Geographic FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115713.ts
 
-#EXTINF:-1 tvg-chno="197", Canal Sur Andalucía
+#EXTINF:-1 tvg-chno="197", tvg-id="ext" |  Canal Sur Andalucía
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/15.ts
 
-#EXTINF:-1 tvg-chno="198", Comedy Central
+#EXTINF:-1 tvg-chno="198", tvg-id="ext" |  Comedy Central
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/7.ts
 
-#EXTINF:-1 tvg-chno="199", Comedy Central HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3080.ts
+#EXTINF:-1 tvg-chno="199", tvg-id="ext" |  Comedy Central HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/14465
 
-#EXTINF:-1 tvg-chno="200", Comedy Central FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/6.ts
+#EXTINF:-1 tvg-chno="200", tvg-id="ext" |  Comedy Central FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52386
 
-#EXTINF:-1 tvg-chno="201", Comedy Central FHD (H265)
+#EXTINF:-1 tvg-chno="201", tvg-id="ext" |  Comedy Central FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115830.ts
 
-#EXTINF:-1 tvg-chno="202", Decasa
+#EXTINF:-1 tvg-chno="202", tvg-id="ext" |  Decasa
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/151.ts
 
-#EXTINF:-1 tvg-chno="203", Decasa (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115828.ts
+#EXTINF:-1 tvg-chno="203", tvg-id="ext" |  Decasa HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6773
 
-#EXTINF:-1 tvg-chno="204", Decasa FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/34571.ts
+#EXTINF:-1 tvg-chno="204", tvg-id="ext" |  Decasa FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52369
 
-#EXTINF:-1 tvg-chno="205", Canal Cocina
+#EXTINF:-1 tvg-chno="205", tvg-id="ext" |  Canal Cocina
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/19.ts
 
-#EXTINF:-1 tvg-chno="206", Canal Cocina (H265)
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115827.ts
+#EXTINF:-1 tvg-chno="206", tvg-id="ext" |  Canal Cocina HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6772
 
-#EXTINF:-1 tvg-chno="207", Canal Cocina HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/24142.ts
+#EXTINF:-1 tvg-chno="207", tvg-id="ext" |  Canal Cocina FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29310
 
-#EXTINF:-1 tvg-chno="208", Canal Cocina FHD
+#EXTINF:-1 tvg-chno="208", tvg-id="ext" |  Canal Cocina FHD
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/24143.ts
 
-#EXTINF:-1 tvg-chno="209", COSMO
+#EXTINF:-1 tvg-chno="209", tvg-id="ext" |  COSMO
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/5.ts
 
-#EXTINF:-1 tvg-chno="210", COSMO HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3079.ts
+#EXTINF:-1 tvg-chno="210", tvg-id="ext" |  COSMO HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6781
 
-#EXTINF:-1 tvg-chno="211", COSMO FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/4.ts
+#EXTINF:-1 tvg-chno="211", tvg-id="ext" |  COSMO FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/2573
 
-#EXTINF:-1 tvg-chno="203", COSMO FHD (H265)
+#EXTINF:-1 tvg-chno="203", tvg-id="ext" |  COSMO FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/115831.ts
 
-#EXTINF:-1 tvg-chno="213", Viajar
+#EXTINF:-1 tvg-chno="213", tvg-id="ext" |  Viajar
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/88.ts
 
-#EXTINF:-1 tvg-chno="214", Viajar HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3068.ts
+#EXTINF:-1 tvg-chno="214", tvg-id="ext" |  Viajar HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6754
 
-#EXTINF:-1 tvg-chno="215", Viajar FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/89.ts
+#EXTINF:-1 tvg-chno="215", tvg-id="ext" |  Viajar FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/29247
 
-#EXTINF:-1 tvg-chno="216", Viajar FHD (H265)
+#EXTINF:-1 tvg-chno="216", tvg-id="ext" |  Viajar FHD (H265)
 http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/126146.ts
 
-#EXTINF:-1 tvg-chno="217", Toros TV
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/83.ts
+#EXTINF:-1 tvg-chno="217", tvg-id="ext" |  Caza y Pesca
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52337
 
-#EXTINF:-1 tvg-chno="218", Toros TV HD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/3040.ts
+#EXTINF:-1 tvg-chno="218", tvg-id="ext" |  Toros TV HD
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6890
 
-#EXTINF:-1 tvg-chno="219", Toros TV FHD
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/24154.ts
+#EXTINF:-1 tvg-chno="219", tvg-id="ext" |  Toros TV FHD
+http://ccs2.coolmyvip.club:8880/ice12m1012/sp564685/52341
 
-#EXTINF:-1 tvg-chno="220", Cazavision
-http://tvgolatino.com:8080/live/pLr9hRVyVL/uZP4zE93Zv/9987.ts
+#EXTINF:-1 tvg-chno="220", tvg-id="ext" |  Cazavision
+http://ok4.club:8000/ejJcyIQsZD/oBNqLgifmt/6779
 
